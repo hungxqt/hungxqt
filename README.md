@@ -36,8 +36,3 @@ I'm a **Cybersecurity student** who's always hungry for knowledge and ready to b
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hung-tran-860048199)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hungxqt)
-
-## 💖 Support Me
-If you like what I do, consider supporting me by buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/yourhandle)
