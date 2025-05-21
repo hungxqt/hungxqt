@@ -1,16 +1,16 @@
 # Hi there, I'm hungqt! 👋
 
 ## 🚀 About Me
-I'm a passionate [Your Profession/Role] with a love for [Your Interests/Hobbies]. I enjoy solving complex problems, building cool projects, and continuously learning new technologies.
+I'm a **Cybersecurity student** who's always hungry for knowledge and ready to break (and fix 😎) stuff in the digital world.
 
-- 🔭 I’m currently working on **[Current Project]**
-- 🌱 I’m currently learning **[What You're Learning]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 🤔 I’m looking for help with **[What You Need Help With]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email/Social Media]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🔐 Passionate about **ethical hacking, reverse engineering**, and building security tools from scratch
+- 🔭 Currently developing a **Snort 3 plugin to detect smarter DDoS attacks** (`ddos_inspector`)
+- 🧠 Deep diving into **network forensics, memory analysis**, and **low-level OS internals**
+- 👨‍👩‍👦 Looking to collaborate on **CTFs, red team tooling, or threat detection projects**
+- 📚 Learning **malware development (for research 🧪), evasion techniques, and threat hunting**
+- 🕵️‍♂️ Favorite motto: *"The quieter you become, the more you can hear."*
+
+**Always down to learn, break, build, repeat.** If you're into hacking stuff (legally ofc), let's connect!
 
 ## 🛠️ Skills
 ### Languages
@@ -27,30 +27,15 @@ I'm a passionate [Your Profession/Role] with a love for [Your Interests/Hobbies]
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
 ## 📂 Featured Projects
-- **[Project 1](https://github.com/yourusername/project1)** - A brief description of what this project does.
-- **[Project 2](https://github.com/yourusername/project2)** - A brief description of what this project does.
-- **[Project 3](https://github.com/yourusername/project3)** - A brief description of what this project does.
+[![simple-ids-system](https://img.shields.io/badge/-simple--ids--system-gray?style=for-the-badge&logo=github)](https://github.com/hung-qt/simple-ids-system) - This project sets up a centralized logging infrastructure using the ELK Stack (Elasticsearch, Logstash, Kibana) and Syslog-NG, allowing virtual machines to forward system logs to a Dockerized ELK environment for real-time analysis, monitoring, and troubleshooting via Kibana dashboards.
 
-## 📝 Blog Posts
-- [Blog Post 1](https://yourblog.com/post1) - A brief description of the blog post.
-- [Blog Post 2](https://yourblog.com/post2) - A brief description of the blog post.
+[![ddos_inspector](https://img.shields.io/badge/-ddos__inspector-gray?style=for-the-badge&logo=github)](https://github.com/hung-qt/ddos_inspector) - This project builds a smart add-on for Snort 3 to detect and stop DDoS attacks in real time. It uses lightweight math and behavior checks (not heavy AI) to catch attacks like SYN floods or slow HTTP traffic. It blocks bad traffic quickly using firewall rules, while using very little CPU and memory. It’s fast, efficient, and easy to use in real networks.
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hung-tran-860048199)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hungxqt)
 
 ## 💖 Support Me
 If you like what I do, consider supporting me by buying me a coffee!
