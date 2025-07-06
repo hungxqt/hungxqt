@@ -29,9 +29,9 @@ I'm a **Cybersecurity student** who's always hungry for knowledge and ready to b
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📂 Featured Projects
-[![simple-ids-system](https://img.shields.io/badge/-simple--ids--system-gray?style=for-the-badge&logo=github)](https://github.com/hung-qt/simple-ids-system) - This project sets up a centralized logging infrastructure using the ELK Stack (Elasticsearch, Logstash, Kibana) and Syslog-NG, allowing virtual machines to forward system logs to a Dockerized ELK environment for real-time analysis, monitoring, and troubleshooting via Kibana dashboards.
+[![simple-ids-system](https://img.shields.io/badge/-simple--ids--system-gray?style=for-the-badge&logo=github)](https://github.com/hungxqt/simple-ids-system) - This project sets up a centralized logging infrastructure using the ELK Stack (Elasticsearch, Logstash, Kibana) and Syslog-NG, allowing virtual machines to forward system logs to a Dockerized ELK environment for real-time analysis, monitoring, and troubleshooting via Kibana dashboards.
 
-[![ddos_inspector](https://img.shields.io/badge/-ddos__inspector-gray?style=for-the-badge&logo=github)](https://github.com/hung-qt/ddos_inspector) - This project builds a smart add-on for Snort 3 to detect and stop DDoS attacks in real time. It uses lightweight math and behavior checks (not heavy AI) to catch attacks like SYN floods or slow HTTP traffic. It blocks bad traffic quickly using firewall rules, while using very little CPU and memory. It’s fast, efficient, and easy to use in real networks.
+[![ddos_inspector](https://img.shields.io/badge/-ddos__inspector-gray?style=for-the-badge&logo=github)](https://github.com/hungxqt/ddos_inspector) - This project builds a smart add-on for Snort 3 to detect and stop DDoS attacks in real time. It uses lightweight math and behavior checks (not heavy AI) to catch attacks like SYN floods or slow HTTP traffic. It blocks bad traffic quickly using firewall rules, while using very little CPU and memory. It’s fast, efficient, and easy to use in real networks.
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hung-tran-860048199)
